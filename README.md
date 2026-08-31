@@ -43,12 +43,18 @@ Waveform of half wave rectifier with filter:
 <img width="1008" height="543" alt="image" src="https://github.com/user-attachments/assets/217baa7f-6562-465c-833d-1d1c432ece06" />
 
 Circuit Diagram of half wave rectifier with and without filter:
+
+
 <img width="319" height="200" alt="image" src="https://github.com/user-attachments/assets/63695b48-c6c7-48e4-8fbc-9b45e05013cf" />
 
 Tabulation of half wave rectifier:
+
+
 <img width="321" height="113" alt="image" src="https://github.com/user-attachments/assets/5d34d176-fd05-449c-9144-3cbc55472ca0" />
 
 Model Graph of half wave rectifier:
+
+
 <img width="338" height="190" alt="image" src="https://github.com/user-attachments/assets/8c665a6b-3b0c-469f-be0b-7b0b4ebe1867" />
 
 Bridge rectifier with filter:
@@ -58,12 +64,18 @@ Waveform of bridge rectifier with filter:
 <img width="1345" height="729" alt="image" src="https://github.com/user-attachments/assets/8c7d87ba-7101-4fe2-b590-dda588440589" />
 
 Circuit Diagram of bridge rectifier with and without filter:
+
+
 <img width="319" height="214" alt="image" src="https://github.com/user-attachments/assets/0cd80f3f-ddbc-4211-8430-642a8ecf62c3" />
 
 Tabulation of bridge rectifier:
+
+
 <img width="344" height="120" alt="image" src="https://github.com/user-attachments/assets/b9de4430-46b3-493a-b0e5-53fae9731341" />
 
 Model Graph of bridge rectifier:
+
+
 <img width="369" height="178" alt="image" src="https://github.com/user-attachments/assets/a4624737-9d75-41e5-ab4c-101266ba7d67" />
 
 
